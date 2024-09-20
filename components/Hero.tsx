@@ -34,7 +34,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 md:text-lg lg:text-2xl">
-            Hi, I'm a Software Developer and Data Enthusiast.
+            Hi, I&apos;m a Software Developer and Data Enthusiast.
           </p>
           <a href="">
             <MagicButton
